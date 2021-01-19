@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+### I am [name]. I am a full-stack javascript developer!
+
+- 🔭 I’m currently working on my ....
+- 🌱 I’m currently learning javascript and python
+- 👯 I’m looking to collaborate on anything...
+- 🤔 I’m looking for help with a bot or smt. put whateveer you want here.
+- 💬 Ask me about anything in javacript and node.js
+- 📫 How to reach me: Reach me through discord or skype!
+- 😄 Pronouns: blah blah  blah
+- ⚡ Fun fact: If you sub to AlanITD, you get a cookie. and if u dont, he steals your car/..
 
 <!--
 **RandomPersonFreddy/RandomPersonFreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
